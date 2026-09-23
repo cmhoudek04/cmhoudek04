@@ -15,8 +15,7 @@ If I had to pick one project that I was most proud of, I would choose [TripMates
 - C
 
 ## 🌱 I’m Currently Learning...
-- Godot (GDScript and game design)
-- Discord bots
+- Angular & Typescript
 - C++ and graphics rendering
 <!--
 **MadHyyper/MadHyyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
