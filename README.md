@@ -1,11 +1,7 @@
 ## 👋 Hi There
-I'm Conner Houdek. I am a student at Iowa State University who is studying Software Engineering with full stack experience in UI/UX.
+My name is Conner Houdek, a Senior Software Engineering student at Iowa State University, graduating in May 2027. I am passionate about building software and solving complex problems, with experience across a variety of programming languages, frameworks, and development tools. Through a diverse range of projects, I've developed practical skills in web development, embedded systems, and application development. I'm seeking software engineering opportunities where I can contribute to meaningful projects, apply my technical skills, and continue to grow as an engineer.
 
-I love spending time learning new tools and languages and building things that are fulfilling to me and I try to experiment with new tools as much as I can.
-
-The projects I have on display here are some of my personal favorites, milestones for my programming journey, or other projects I made during my time at Iowa State.
-
-If I had to pick one project that I was most proud of, I would choose [TripMates](https://github.com/MadHyyper/Tripmates).
+If you would like to see a project, I am most proud of my contributions to [TripMates](https://github.com/MadHyyper/Tripmates).
 
 ## 🔨 Tools and Frameworks
 - React
