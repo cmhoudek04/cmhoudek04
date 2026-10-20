@@ -12,7 +12,6 @@ If you would like to see a project, I am most proud of my contributions to [Trip
 
 ## 🌱 I’m Currently Learning...
 - Angular & Typescript
-- C++ and graphics rendering
 <!--
 **MadHyyper/MadHyyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
